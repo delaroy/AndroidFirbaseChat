@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "633504866703",
+    "firebase_url": "https://fir-database-8e745.firebaseio.com",
+    "project_id": "fir-database-8e745",
+    "storage_bucket": "fir-database-8e745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633504866703:android:7b6360d7d7a73be8",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633504866703-qs005i4319ioqrled8p7olopiohq4ks2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delaroystudios.firebasedatabase",
+            "certificate_hash": "08fa7d5a643a79d3f9ec866c63deb2208a0b6640"
+          }
+        },
+        {
+          "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSWR0eFN9D-At53uIdMFy3lN52vhTOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633504866703:android:6035b4f5c6e27738",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebaseemailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633504866703-eop6d8fj23t1qicb4e8oi3au9udcojd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delaroystudios.firebaseemailauth",
+            "certificate_hash": "02400e13a85e876088e2abfd02909d56ee364c05"
+          }
+        },
+        {
+          "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSWR0eFN9D-At53uIdMFy3lN52vhTOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633504866703:android:11abcef06dd1434a",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasefacebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633504866703-c8qg0v1u26nb25e93q89mi6n5ik0ks7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delaroystudios.firebasefacebookauth",
+            "certificate_hash": "02400e13a85e876088e2abfd02909d56ee364c05"
+          }
+        },
+        {
+          "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSWR0eFN9D-At53uIdMFy3lN52vhTOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633504866703:android:665d4725c896ad75",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebaseemailpasswordauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSWR0eFN9D-At53uIdMFy3lN52vhTOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633504866703:android:2a993e92037f8aa7",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSWR0eFN9D-At53uIdMFy3lN52vhTOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633504866703:android:1b17736f3a42b197",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633504866703-vvjru6l9cr2f9n29ejh2jpat45aransm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxSWR0eFN9D-At53uIdMFy3lN52vhTOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
